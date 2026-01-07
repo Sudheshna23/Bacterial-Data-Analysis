@@ -9,3 +9,7 @@ A list of questions have been answered after performing data analysis using pand
 4. Relationship between bacterial families and their nature
 5. Relationship between bacterial location and their nature
 
+# Conclusions drawn from the data
+1. Enteriobacteriaceae, Bacillaceae and Streptococcaceae were found to be the top 3 families of bacterial species.
+2. Out of the 200 bacterial species analysed 51.3% were found to be not harmful whereas 48.7% were found to be harmful.
+3. Soil, Water and Instestinal tract were found to be the top 3 locations where bacterial species could be found. 
